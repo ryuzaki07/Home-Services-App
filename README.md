@@ -6,7 +6,7 @@ Django Job Portal.
 
 ```
 open terminal and type
-https://github.com/ryuzaki07/Home-Service-Job-Portal.git
+https://github.com/ryuzaki07/Home-Services-App.git
 
 ## Install requirements
 
